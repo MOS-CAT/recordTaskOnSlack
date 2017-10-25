@@ -1,0 +1,2 @@
+# recordTaskOnSlack
+slack上で作業時間を記録するbot
