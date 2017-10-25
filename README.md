@@ -96,7 +96,6 @@ https://drive.google.com/ を開き、画面中央で右クリック(Control + C
 ![demo20](https://github.com/MOS-CAT/recordTaskOnSlack/blob/master/img/demo20.png)  
 すると以下のような画面が開かれるので、【Outgoing Webhooks】を検索し、【Outgoing Webhooks】をinstallします。  
 ![demo21](https://github.com/MOS-CAT/recordTaskOnSlack/blob/master/img/demo21.png)  
-![demo22](https://github.com/MOS-CAT/recordTaskOnSlack/blob/master/img/demo22.png)  
 Outgoing Wehooksの画面が表示されるので、【Add Configuration】をクリックします。  
 ![demo23](https://github.com/MOS-CAT/recordTaskOnSlack/blob/master/img/demo23.png)  
 以下の画面が表示されるので、【Add Outgoing Webhooks integration】をクリックします。  
